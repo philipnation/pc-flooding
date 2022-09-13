@@ -5,13 +5,6 @@ import shutil
 windows = Tk()
 
 
-def disable_events():
-    pass
-
-
-windows.protocol("WM_DELETE_WINDOW", disable_events)
-
-
 
 def delete():
     try:
